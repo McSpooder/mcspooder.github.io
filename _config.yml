@@ -105,7 +105,7 @@ defaults:
   - comments:
       provider: "disqus"
       disqus:
-      shortname: "your-disqus-shortname"
+      shortname: "heresdanny"
 
 category_archive:
   type: liquid
