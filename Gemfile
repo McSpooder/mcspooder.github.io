@@ -6,6 +6,7 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
