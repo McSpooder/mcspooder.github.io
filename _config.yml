@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   3rd Year Undergraduate Computer Ccience student at University of Hull.
 twitter_username: spo0der
 github_username: McSpooder
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
@@ -56,19 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Danny Wilde"
+  avatar : "https://pbs.twimg.com/profile_images/907663789771968518/TJVGE8DU_400x400.jpg" #/assets/images/bio-photo.jpg
+  bio    : "3rd Year Undergraduate Computer Ccience student at University of Hull. Interested in the theory and implementation of Machine Learning."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/spo0der"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/McSpooder"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
