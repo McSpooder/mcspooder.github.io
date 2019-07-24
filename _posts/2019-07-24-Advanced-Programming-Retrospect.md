@@ -1,6 +1,6 @@
 ---
-title: "Oculus Rift S Review"
-last_modified_at: 2019-07-24T16:20:02-05:00
+title: "Advanced Programming Module Retrospective"
+last_modified_at: 2019-07-16T16:20:02-05:00
 
 header:
   show_overlay_excerpt: false
@@ -23,11 +23,11 @@ This is a retrospect for the advanced programming module from semester 2 of year
 
 Marks:
 
-| Examination   | Mark          | Cool  |
-| ------------- |:-------------:| -----:|
-| Test 1        | 78            | $1600 |
-| Test 2        | 100           |   $12 |
-| Coursework    | 50            |    $1 |
+| Examination   | Mark          |
+| ------------- |:-------------:|
+| Test 1        | 78            |
+| Test 2        | 100           |
+| Coursework    | 50            |
 
 
 The exams were easy because of the preparation that went into them. Most of the lectures were attended and attempts at class revision notes have been made. Most important revision tool used was of course Anki. I've made revision cards for most of the lectures a month or two before the exam and went full throttle at committing them to memory. It became part of my morning routine to wake up and review the revision cards. Something that wasn't as helpful was the reading list book. 
