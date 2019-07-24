@@ -4,11 +4,11 @@ last_modified_at: 2019-07-16T16:20:02-05:00
 
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/images/oculusrifts.jpg
-  caption: "Photo credit: [**TheVerge**](https://theverge.com)"
+  overlay_image: https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?cs=srgb&dl=business-code-coding-943096.jpg&fm=jpg
+  caption: "Photo credit: [**Pexels**](https://theverge.com)"
   actions:
     - label: "More Info"
-      url: "https://theverge.com"
+      url: "https://pexels.com"
 
 categories:
   - Blog
