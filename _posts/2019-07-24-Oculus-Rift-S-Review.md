@@ -2,6 +2,7 @@
 title: "Oculus Rift S Review"
 last_modified_at: 2019-07-24T16:20:02-05:00
 
+
 header:
   overlay_image: /assets/images/oculusrifts.jpg
   caption: "Photo credit: [**TheVerge**](https://theverge.com)"
@@ -9,18 +10,6 @@ header:
     - label: "More Info"
       url: "https://theverge.com"
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 categories:
   - Blog
   - Reviews
