@@ -1,7 +1,18 @@
 ---
 title: "Oculus Rift S Review"
 last_modified_at: 2019-07-24T16:20:02-05:00
-comments: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 categories:
   - Blog
   - Reviews
