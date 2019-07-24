@@ -82,6 +82,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+comments:
+    provider: "disqus"
+    disqus:
+      shortname: "HeresDanny"
+
 defaults:
   # _posts
   - scope:
@@ -101,11 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
-  - comments:
-      provider: "disqus"
-      disqus:
-        shortname: "HeresDanny"
 
 category_archive:
   type: liquid
