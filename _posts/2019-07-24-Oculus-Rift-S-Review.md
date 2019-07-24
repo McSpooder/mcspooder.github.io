@@ -39,6 +39,8 @@ When you first run the set up you are prompted to put on the headset and draw th
 
 The app that I tried out first was Google Earth VR. I wanted to try this out as soon as I found out it was available. When you first load in you are greeted with a tour where you are shot around the globe 5 times in a space of two mins. The places are some of the most beautiful places on Earth, with a mix of nature and modern cities. The views were jaw dropping and the immersion was dream like but with more clarity. The fact that it is also free is mind blowing in an of itself.
 
+![alt text](http://www.smart-magazine.com/content/uploads/2017/05/google-earth.jpg "Google Earth VR")
+
 Its safe to say that the picture quality of the rift s was on par with expectations. The screen door effect was almost unnoticeable except for the slight glimpses in the periphery and the text was easy to read. I must say however that there is a sweet spot that you have to look through to minimize the amount of blur you see. I found that the best position for it was to tip it slightly down so that it sits tightly on my nose. 
 
 As for the audio. Well, the rift comes equipped with a headphone jack allowing you to plug in your own headphones. Unfortunately my over the ear headphones were too big and they wouldn't sit over my ears comfortably. It was clearly designed for earbuds.
