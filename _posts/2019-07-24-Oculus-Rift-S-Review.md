@@ -1,6 +1,14 @@
 ---
 title: "Oculus Rift S Review"
 last_modified_at: 2019-07-24T16:20:02-05:00
+
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 defaults:
   # _posts
   - scope:
