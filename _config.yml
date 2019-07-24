@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Danny Wilde"
   avatar : "https://pbs.twimg.com/profile_images/907663789771968518/TJVGE8DU_400x400.jpg" #/assets/images/bio-photo.jpg
-  bio    : "3rd Year Undergraduate Computer Ccience student at University of Hull. Interested in the theory and implementation of Machine Learning."
+  bio    : "3rd Year Undergraduate Computer Science student at University of Hull. Interested in the theory and implementation of Machine Learning."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -68,7 +68,7 @@ author:
       url: "https://github.com/McSpooder"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/CouldBeDanny"
 
 footer:
   links:
