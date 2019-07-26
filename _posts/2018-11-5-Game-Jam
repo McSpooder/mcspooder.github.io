@@ -1,0 +1,32 @@
+---
+title: "Game Jam and Killer Pies"
+last_modified_at: 2018-11-05T16:20:02-05:00
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: https://threethinggame.com/img/181103event/the_end.png
+
+categories:
+  - Blog
+  - Projects
+tags:
+  - Three Thing Game
+  - Game Jam
+  - Collaboration
+---
+
+Three Thing game is an annual game jam where teams are given three random words on which to base their game. After obtaining the words you have 2 days to plan out the game and organize your team for the subsequent 24 hour programming session. 
+
+We got the words: Pie, dance, pan. After getting home we began brainstorming ideas as a team considering the ones that seemed to be the most fun, pragmatic and relevant to the words. We wanted the game to be enjoyable and yet challenging to keep the player engaged. It also had to be do-able in the short 24 hour time frame with just three of us. 
+
+At first we were only discussing it verbally, taking turns at pitching ideas where eventually we settled in on a top-down survival game. The premise is that you are a stick man that wakes up in a gigantic kitchen with pies falling off the shelve that are malevolently prancing towards you. This is the stuff that nightmares are made of. Getting hit by the pie would take away one of your lives so its important to squash them with your main weapon, a frying pan. We then began writing our ideas down and making rudimentary sketches to bring our vision to life.
+
+Once the blueprints were finalized we began delegating roles. Stephan was the audio producer and graphics designer, Olu was a programmer and graphics designer and I was the chief programmer. To come to this we first started thinking of the most imperative roles required to complete this project. After coming up with a bunch we considered each others experience and desire for each role to come to a conclusion. 
+
+It was just before 10 am when we arrived to the Fenner computer lab. Here we signed off our names and began bringing our game to life. Unity was as our game engine with the C# scripts being written in visual studio for the auto fill and debugging tools. The assets for the game were simultaneously being created in ms paint by Stephan as Me and Olu were programming the basic physics, animations and collision detection. We used discord to share files and the built in unity repository management system for collaborative programming.
+
+By the end of the day, we had a virtual environment with a movable stick man that would die when hit by the spawning path finding pies as well as a nice soundtrack accompanying the game play. Not to mention a beautiful retro UI with animation and sound effects. On the way home, we had a little retrospective as to how we should organize ourselves for tomorrow and which features we should prioritize. 
+
+Work started at the same time the next day. With our updated backlog of features the work has become more manageable. Also Me and Olu at this point were well versed with the Unity repository system and Stephan was freed up to join us on programming. In the 5 hours that followed we managed to implement the weapon mechanics, the highscore feature, an invulnerability time frame and an increasing difficulty mechanic. Also we made the pies jump in sync to the background music which amused the judges. 
+
+In the end I think we did very well as a team. This game Jam has taught me a lot about programming collaboratively and how to organize as a team. 
