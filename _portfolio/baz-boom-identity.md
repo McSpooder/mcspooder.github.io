@@ -10,7 +10,11 @@ sidebar:
     image_alt: "logo"
     text: "Lead Developer, Designer"
   - title: "Responsibilities"
-    text: "-UML Modeling
+    text: "UML Modeling
+    dsdgdsg,
+    sgdsgdsg,
+    -sdgdsgds,
+    sdgdsg,
            -Implementing features
            -Testing code
            -Keeping team organized"
