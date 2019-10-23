@@ -28,7 +28,7 @@ After brain storming many ideas for hours, the sea theme stood out the most. Thi
 
 The aim of the game is to bounce from side to side whilst trying to avoid mines being dropped in the Ocean. Bellow you can be see a demonstration of me failing miserably at it.
 
-<iframe width="420" height="315" src="https://drive.google.com/file/d/14Ekr7Xr8JbbzMUiOs_8Ruscuu_x5oGy1/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/14Ekr7Xr8JbbzMUiOs_8Ruscuu_x5oGy1/preview" width="640" height="480"></iframe>
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
