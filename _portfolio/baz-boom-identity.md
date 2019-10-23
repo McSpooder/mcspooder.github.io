@@ -1,8 +1,8 @@
 ---
-title: "Baz Boom Identity"
+title: "Hull University Modules Picker"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/portfolio/20190408_141309.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
