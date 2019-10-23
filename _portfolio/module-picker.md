@@ -23,11 +23,11 @@ sidebar:
 
 ## Notable Points
 
--Followed an Agile Methedology
--Created Unit Tests
--Did Daily stand ups
--Used Subversion (Source Control)
--Developed in C#
+1. Followed an Agile Methedology
+2. Created Unit Tests
+3. Did Daily stand ups
+4. Used Subversion (Source Control)
+5. Developed in C#
 
 ## Summary
 In year 2 of the Undergraduate Degree, we were tasked to develop an application that would benefit current and prospective university students. The requirement was to work and collaborate on a single piece of code whilst using Agile management techniques and source control to stay on track with deliverables. 
