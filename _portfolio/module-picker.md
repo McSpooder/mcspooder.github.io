@@ -22,6 +22,7 @@ sidebar:
 ---
 
 ## Notable Points
+
 -Followed an Agile Methedology
 -Created Unit Tests
 -Did Daily stand ups
