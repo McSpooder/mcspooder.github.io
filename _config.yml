@@ -122,9 +122,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path
-  cookie:
-    output: true
-    permalink: /cookies/:path
 
 category_archive:
   type: liquid
