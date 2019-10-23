@@ -1,16 +1,15 @@
 ---
-title: "Foo Bar Identity2"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Survive the Fishtank"
+excerpt: "Survive the Fishtank android app showcase."
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Date"
+    text: "01/06/18 - 27/06/18"
+    title: "Role"
+    text: "Software Developer, Designer"
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,8 +22,14 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Survive the Fish Tank is a game that I developed in June of 2018. At that time I wanted to make something for my phone to pass the time and see how mobile development compares to desktop. In the begining I didn't know anything about mobile development. So,I enrolled in a Udemy course on programming in Unity. By the end of the course I made 3 tutorial apps and then decided to make an orginal game.
+
+After brain storming many ideas for hours, the sea theme stood out the most. This was happening during the time that water polution was begining to be taken more seriously and I felt there weren't that many phone games where the player is underwater. The sketches were imported into photoshop and made into sprites that could be imported into Unity.
+
+The aim of the game is to bounce from side to side whilst trying to avoid mines being dropped in the Ocean. Bellow you can be see a demonstration of me failing miserably at it.
+
+<iframe width="420" height="315" src="https://drive.google.com/file/d/14Ekr7Xr8JbbzMUiOs_8Ruscuu_x5oGy1/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
