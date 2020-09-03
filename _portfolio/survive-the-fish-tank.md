@@ -3,7 +3,7 @@ title: "Survive the Fishtank"
 excerpt: "Survive the Fishtank android app showcase."
 header:
   image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/portfolio/fishtank-thumbnail.png
 sidebar:
   - title: "Date"
     text: "01/06/18 - 27/06/18"
