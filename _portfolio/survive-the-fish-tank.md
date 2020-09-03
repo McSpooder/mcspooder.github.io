@@ -11,8 +11,8 @@ sidebar:
     text: "Software Developer, Designer"
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/portfolio/fishtank-thumbnail.png
+    image_path: assets/images/portfolio/fishtank-thumbnail.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
