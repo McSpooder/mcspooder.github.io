@@ -2,8 +2,8 @@
 title: "Deep Learning for Alzheimers Disease."
 excerpt: "3D Neural Network for the prediction of Alzheimers Disease and conversion from MCI."
 header:
-  image: /assets/images/portfolio/brain-banner.png
-  teaser: /assets/images/portfolio/brain-banner.png
+  image: /assets/images/portfolio/brain-banner.jpeg
+  teaser: /assets/images/portfolio/brain-banner.jpeg
 sidebar:
   - title: "Role"
     image: 
