@@ -3,7 +3,7 @@ title: "Hull University Modules Picker"
 excerpt: "A social app to inform and allow students to decide on their academic course modules."
 header:
   image: /assets/images/portfolio/agile-banner.png
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: /assets/images/portfolio/agile-banner.png
 sidebar:
   - title: "Role"
     image: 
