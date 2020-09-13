@@ -1,16 +1,18 @@
 ---
-title: "Hull University Modules Picker"
-excerpt: "A social app to inform and allow students to decide on their academic course modules."
+title: "Deep Learning for Alzheimers Disease."
+excerpt: "3D Neural Network for the prediction of Alzheimers Disease and conversion from MCI."
 header:
-  image: /assets/images/portfolio/agile-banner.png
-  teaser: /assets/images/portfolio/agile-banner.png
+  image: /assets/images/portfolio/brain-banner.png
+  teaser: /assets/images/portfolio/brain-banner.png
 sidebar:
   - title: "Role"
     image: 
     image_alt: "logo"
-    text: "Lead Developer, Designer"
+    text: "Programmer, Data Scientist"
   - title: "Responsibilities"
-    text: "Employ Agile development to iteratively and collaboratively develop a C# app for the University."
+    text: "Researching, Programming, DevOps"
+  - title: "Code"
+    text: "https://github.com/McSpooder/camull_net"
 
 ---
 
