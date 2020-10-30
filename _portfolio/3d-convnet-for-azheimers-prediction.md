@@ -4,6 +4,11 @@ excerpt: "3D Neural Network for the prediction of Alzheimers Disease and convers
 header:
   image: /assets/images/portfolio/brain-banner.jpeg
   teaser: /assets/images/portfolio/brain-banner.jpeg
+tags:
+  - University
+  - Machine Learning
+  - Deep Learning
+  - Dissertation
 sidebar:
   - title: "Role"
     image: 
