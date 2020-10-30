@@ -10,19 +10,17 @@ sidebar:
     image_alt: "logo"
     text: "Programmer, Data Scientist"
   - title: "Responsibilities"
-    text: "Researching, Programming, DevOps"
+    text: "Researching, Programming, DevOps, Data Cleaning"
   - title: "Code"
-    text: "https://github.com/McSpooder/camull_net"
+    text: !(github link)["https://github.com/McSpooder/camull_net"]
 
 ---
 
 ## Notable Points
 
-+ Followed an Agile Methedology
-+ Created Unit Tests
-+ Did Daily stand ups
-+ Used Subversion (Source Control)
-+ Developed in C#
++ Followed Kanban Methedology
++ Used Github (Source Control)
++ Developed in Python3.5 using Pytorch
 
 ## Summary
 In year 2 of the Undergraduate Degree, we were tasked to develop an application that would benefit current and prospective university students. The requirement was to work and collaborate on a single piece of code whilst using Agile management techniques and source control to stay on track with deliverables. 
