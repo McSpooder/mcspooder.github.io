@@ -12,7 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Researching, Programming, DevOps, Data Cleaning"
   - title: "Code"
-    text: [github link]("https://github.com/McSpooder/camull_net")
+    text: "https://github.com/McSpooder/camull_net"
 
 ---
 
