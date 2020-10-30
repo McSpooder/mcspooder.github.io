@@ -31,6 +31,6 @@ Scrumban was the Agile Methedology employed. We split the development into sprin
 
 A video demonstrating the finished products can be found below. 
 
-<iframe src="https://drive.google.com/file/d/17pdp9mWCuvVHWLUTXs7vJ2W3whNYaKCr/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1mnVz4QvV7wCLUi_CEPwck1eT2rFIbeae/view?usp=sharing></iframe>
 
 
