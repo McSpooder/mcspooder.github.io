@@ -1,41 +1,30 @@
 ---
-title: "Advanced Programming Module Retrospective"
-last_modified_at: 2019-07-16T16:20:02-05:00
+title: "Difference between Stochastic and Batch Gradient Descent"
+last_modified_at: 2020-09-05T17:33:03-06:00
 
 header:
   show_overlay_excerpt: false
-  overlay_image: https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?cs=srgb&dl=business-code-coding-943096.jpg&fm=jpg
-  caption: "Photo credit: [**Pexels**](https://theverge.com)"
-  actions:
-    - label: "More Info"
-      url: "https://pexels.com"
+  overlay_image: https://miro.medium.com/max/875/1*IVkEh-AVvcbcMUvEGmg3Ig.png
 
 categories:
-  - Blog
-  - Reviews
+  - Machine Learning
+  - Computer Science
 tags:
-  - Oculus Rift S
-  - Virtual Reality
-  - Google Earth VR
+  - Machine Learning
+  - Optimisers
 ---
 
-This is a retrospect for the advanced programming module from semester 2 of year 2 of my undergraduate. 
+Gradient descent is how a neural network tweaks its weights. It can be visualised as a person moving down a hill. This hill is also a graph of weights vs the loss. The ultimate goal is to get as far down the hill as possible in order to minimise the loss for a given set of inputs.
 
-Marks:
+The loss is measure of how bad your neural network is performing. This is why you want to minimise it. So if a neural network was given a picture of a cat and it classifies it as a dog then the loss is 1, the highest it can be. If the neural network correctly predicts the cat then the loss is 0.
 
-| Examination   | Mark          | Weight (%)   |
-| ------------- |:-------------:|:------------:|
-| Test 1        | 78            | 10           |
-| Test 2        | 100           | 40           |
-| Coursework    | 50            | 50           |
+The weights axis corresponds to a single weight in the neural network. So for instance if your neural network was just two neurons it would be the line connecting them together. Of course in practise your neural network contains millions of weights but they are ignored in order to visualise the concept better.
 
+The inputs are the data instances going in to your neural network. There is an option of when to calculate the loss when feeding the data into the neural network. It can be done once per data instance (stochastic) or once per mini-batch or once per batch.
 
-The exams were easy because of the preparation that went into them. Most of the lectures were attended and attempts at class revision notes have been made. Most important revision tool used was of course Anki. I've made revision cards for most of the lectures a month or two before the exam and went full throttle at committing them to memory. It became part of my morning routine to wake up and review the revision cards. Something that wasn't as helpful was the reading list book. 
+The loss function looks different for these different options.
 
-The effective c++ programming book, although was insightful to read before the lectures, took too long to dissect and comprehend to make it viable. There were times where I would spend hours trying to comprehend a chapter which would eventually devolve into procrastination. This was waste full and a better approach would be to get more brain cells. Just kidding. The book mostly focused on intermediate c++ programmers whilst I was still new to the language. It would've been better to strengthen my c++ foundation before diving into such a technical piece of work.
+Performing gradient descent per batch basis does not yield the lowest possible minimum. It super imposes a lot of the more nuanced losses which may have corresponded to important features in the dateset.
 
-The coursework was an undeniable anchor to my mark yet so much time and effort was put into it. I'd say 20% of the effort got me 60% of my mark. The rest of the effort was wasted on optimization. The efficiency marks were hinged upon the algorithm and the data structures. So I spent a lot of the time worrying about how to make my algorithms more efficient overlooking the fact that they were wrong. Most notably, the findshortestroute algorithm; the specification didn't meant find the shortest route in terms of physical distance across the edges but shortest distance in terms of number of edges traversed. AreYouSerious.jpg . The best advice here would be to just read the specification carefully, infact it must be studied like a lecture. Read through the spec a couple times and make some mind maps. If this was done the first time I would've seen a sizable difference in my grade. Also talking to the lecturers rather than assuming would've been a good idea.
-
-The subsequent hit to the ACW mark was from insufficient testing. When I finished the coursework, I calculated the mark that I would've gotten if I got all the algorithms correct not paying head to the idea that they may even be wrong. When I was coding the program the results that I got were slightly different to the ones showcased in the spec but I surmised it was due to an arbitrary unit conversion. This assumption wasn't completely heinous but it lead to me ignoring the few test data that the spec provided. Have I tested my algorithms properly I would've clocked on to the fact that the 3 main ones were wrong and could've spent time fixing them rather than optimizing. Next time take testing seriously and adopt test driven development if there's any test data provided. 
-
-In conclusion, the overall mark could've been improved by easing myself into the technical work and by making some simple unit tests. Reading the specification properly would also have helped. Although the mark was disappointing its still decent and puts me on target to achieving a 1st by the end of year 3.
+Whereas stochastic gradient descent is too jagged and has many local minimums where one can get stuck. If you imagine the person going down the hill he would find it very difficult to not get stuck in one of the many dips. It is so jagged because it is based on just a single data instance.
+The mini-batch gradient descent is optimum because the loss function gets very low without too much extra jaggedness. Our imaginary friend would be able to reach the bottom of this hill.
