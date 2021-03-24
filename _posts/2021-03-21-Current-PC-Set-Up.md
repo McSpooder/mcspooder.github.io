@@ -3,7 +3,7 @@ title: "Dopksi Dissected"
 last_modified_at: 2021-03-21T13:04:02-05:00
 
 header:
-#  show_overlay_excerpt: false
+#  show_overlay_excerpt: true
 #  overlay_image: /assets/images/pc_build.HEIC
 #  caption: "Photo credit: [**iPhone 12**](https://heresdanny.co.uk)"
 #  actions:
