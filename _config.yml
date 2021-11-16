@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Danny Wilde"
-  avatar : "https://pbs.twimg.com/profile_images/1396198066575888385/YsCcAfuJ_400x400.jpg" #/assets/images/bio-photo.jpg
+  avatar : "https://avatars.githubusercontent.com/u/21046724?v=4" #/assets/images/bio-photo.jpg
   bio    : "3rd Year Undergraduate Computer Science student at University of Hull. Interested in the theory and implementation of Machine Learning."
   links:
     - label: "Twitter"
