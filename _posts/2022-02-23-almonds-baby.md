@@ -4,7 +4,7 @@ last_modified_at: 2022-02-23T14:50:02-05:00
 
 header:
 #  show_overlay_excerpt: false
-#  overlay_image: /assets/images/almonds.jpg
+#  overlay_image: /assets/images/almonds.jpeg
 
 categories:
   - Blog
