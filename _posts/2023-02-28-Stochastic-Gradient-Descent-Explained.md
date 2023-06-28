@@ -1,6 +1,6 @@
 ---
-title: "The human brain as a bird analogy"
-last_modified_at: 2023-02-28T13:44:05-04:00
+title: "Stochastic Gradient Descent Explained"
+last_modified_at: 2023-06-28T11:26:05-04:00
 
 header:
 #  show_overlay_excerpt: false
