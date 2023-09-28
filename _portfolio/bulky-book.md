@@ -2,8 +2,8 @@
 title: "Unleashing the Full Potential with .NET Core MVC"
 excerpt: "My overview for creating bulky book an e-commerse website using the latest .net framework"
 header:
-  image: /assets/images/portfolio/bulky-book.jpeg
-  teaser: /assets/images/portfolio/bulky-book.jpeg
+  image: /assets/images/portfolio/bulky-book.jpg
+  teaser: /assets/images/portfolio/bulky-book.jpg
 sidebar:
   - title: "Role"
     image: 
